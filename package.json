@@ -1,6 +1,7 @@
 {
   "name": "supermaya",
   "version": "1.0.0",
+  "url": "https://www.oakwave.com",
   "description": "An Eleventy starter-kit designed to help you add rich features to a blog or website without the need for a complicated build process.",
   "main": "index.js",
   "engines": {
@@ -20,6 +21,11 @@
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "@tbranyen/jsdom": "^13.0.0",
+    "@tryghost/content-api": "^1.2.5",
+    "@tryghost/helpers": "^1.1.6",
+    "eleventy-plugin-lazyimages": "liamfiddler/eleventy-plugin-lazyimages",
+    "eleventy-plugin-local-images": "^0.4.0",
+    "eslint-utils": "2.1.0",
     "babel-loader": "^8.1.0",
     "clean-css": "^4.2.3",
     "critical": "^2.0.0-23",
